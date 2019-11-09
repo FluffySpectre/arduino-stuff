@@ -34,7 +34,7 @@ void loop() {
 
   lastButtonState = buttonState;
   
-  delay(100);
+  delay(25);
 }
 
 void powerOn() {
